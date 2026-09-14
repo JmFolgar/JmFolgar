@@ -4,7 +4,7 @@
 
 **Estudiante de Ingeniería y Desarrollador iOS**
 
-[![GitHub](https://img.shields.io/badge/GitHub-PirloFMJ-181717?style=for-the-badge&logo=github)](https://github.com/PirloFMJ)
+[![GitHub](https://img.shields.io/badge/GitHub-JmFolgar-181717?style=for-the-badge&logo=github)](https://github.com/JmFolgar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jorge--folgar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-folgar)
 
 </div>
