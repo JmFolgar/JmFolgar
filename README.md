@@ -22,7 +22,7 @@ Soy estudiante de ingeniería en Guatemala y soy un chico apasionado por la prog
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,apple,react,nodejs,js,java,git,linux" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=swift,html,css,react,nodejs,js,java,git" alt="Tecnologías" />
 </p>
 
 | Área | Herramientas |
