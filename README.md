@@ -11,7 +11,7 @@
 ---
 ## Sobre mí
 
-Soy estudiante de ingeniería en Guatemala y soy un chico apasionado por la programación desde que hace +10 años. Aprendí programación por mi propia cuenta aunque durante mis estudios medios aprendí desarrollo web y ahora a nivel universitario he implementado frameworks como NodeJS, React, Hero, entre otros. También empecé a implementar AI durante mis desarrollos de manera controlada, principalmente con el IDE "Cursor" que es con el que más cómodo me siento. Y a nivel laboral utilizo SwiftUI y UIKit acumulando ya casi 2 años de experiencia con este lenguaje.
+Soy estudiante de 4to año de ingeniería en sistemas en Guatemala y soy un chico apasionado por la programación desde que hace +10 años. Aprendí programación por mi propia cuenta aunque durante mis estudios medios aprendí desarrollo web y ahora a nivel universitario he implementado frameworks como NodeJS, React, Hero, entre otros. También empecé a implementar AI durante mis desarrollos de manera controlada, principalmente con el IDE "Cursor" que es con el que más cómodo me siento. Y a nivel laboral utilizo SwiftUI y UIKit acumulando ya casi 2 años de experiencia con este lenguaje.
 
 - 🇬🇹 Guatemala
 - 🛠️ Swift · SwiftUI · UIKit · Xcode
