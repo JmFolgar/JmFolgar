@@ -54,6 +54,6 @@ Soy estudiante de 4to año de ingeniería en sistemas en Guatemala y soy un chic
 
 **Abierto a colaborar en proyectos iOS y web.**
 
-[GitHub](https://github.com/PirloFMJ) · [LinkedIn](https://www.linkedin.com/in/jorge-folgar)
+[GitHub](https://github.com/JmFolgar) · [LinkedIn](https://www.linkedin.com/in/jorge-folgar)
 
 </div>
