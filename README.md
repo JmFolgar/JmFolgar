@@ -50,18 +50,9 @@ Soy estudiante de ingeniería en Guatemala y soy un chico apasionado por la prog
 
 ---
 
-## GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PirloFMJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PirloFMJ&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</div>
-
----
-
 <div align="center">
 
-**Abierto a colaborar en proyectos iOS.**
+**Abierto a colaborar en proyectos iOS y web.**
 
 [GitHub](https://github.com/PirloFMJ) · [LinkedIn](https://www.linkedin.com/in/jorge-folgar)
 
